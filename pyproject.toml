@@ -1,0 +1,15 @@
+[project]
+name = "streamlit-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "altair>=5.5.0",
+    "dataclasses>=0.8",
+    "numpy>=2.3.1",
+    "pandas>=2.3.1",
+    "ruff>=0.12.4",
+    "scipy>=1.16.0",
+    "streamlit>=1.47.0",
+]
